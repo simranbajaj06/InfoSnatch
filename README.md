@@ -4,7 +4,7 @@
 
 ![newsBOT Architecture](images/Screenshotnewsbot.png)
 ## Overview
-newsBOT is an AI-powered chatbot designed to provide accurate answers to questions based on news articles. Leveraging advanced natural language processing (NLP) and machine learning techniques, newsBOT makes navigating and extracting information from news articles effortless and intuitive.
+InfoSnatch is an AI-powered RAG designed to provide accurate answers to questions based on news articles. It makes navigating and extracting information from news articles effortless and intuitive.
 
 ## Features
 Upload URLs of news articles
